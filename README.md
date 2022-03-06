@@ -1,0 +1,2 @@
+# fristrepo
+git first practice
